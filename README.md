@@ -34,3 +34,5 @@ The app has following features
   <li>com.android.support:cardview-v7:23.3.0</li>
   <li>com.android.support:design:23.3.0</li>
 </ol>
+
+<h3>The debug build of the App can be found in the AppDebugBuildApk directory<h3>
